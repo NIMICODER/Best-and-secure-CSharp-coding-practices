@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Best and secure CSharp coding practices", "Best and secure CSharp coding practices\Best and secure CSharp coding practices.csproj", "{7E7C3E9B-3ABA-46B3-8D52-BA57363F9BDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E7C3E9B-3ABA-46B3-8D52-BA57363F9BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7C3E9B-3ABA-46B3-8D52-BA57363F9BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7C3E9B-3ABA-46B3-8D52-BA57363F9BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7C3E9B-3ABA-46B3-8D52-BA57363F9BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C320E2F-D476-4A42-A7ED-3298D7583A1B}
+	EndGlobalSection
+EndGlobal
